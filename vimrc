@@ -152,3 +152,8 @@ nnoremap <C-L> :nohl<CR><C-L>
 
 "------------------------------------------------------------
 nnoremap ,cd :cd %:p:h<CR>
+map <C-h> <C-w>h
+map <C-j> <C-w>j
+map <C-k> <C-w>k
+map <C-l> <C-w>l
+inoremap <C-Space> <C-x><C-o>
