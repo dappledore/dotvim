@@ -157,3 +157,10 @@ map <C-j> <C-w>j
 map <C-k> <C-w>k
 map <C-l> <C-w>l
 inoremap <C-Space> <C-x><C-o>
+
+set fileencodings=utf8,default,latin1
+nmap <leader>v :tabedit $MYVIMRC<CR>
+
+" Disable swapfile and backup {{{1
+set nobackup
+set noswapfile
