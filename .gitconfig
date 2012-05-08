@@ -1,0 +1,5 @@
+[user]
+	name = David Appledore
+	email = dappledore@gmail.com
+[core]
+   autocrlf=false

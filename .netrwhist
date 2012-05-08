@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/dappledore/dotvim'
-let g:netrw_dirhist_2='/home/dappledore'
-let g:netrw_dirhist_3='/usr/share/vim/vim73'
-let g:netrw_dirhist_4='/usr/share/vim/vim73/indent'
-let g:netrw_dirhist_5='/home/dappledore'
-let g:netrw_dirhist_6='/home/dappledore/dotvim'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='//ELISE/public/nie.fukuishimbun.co.jp/admin/common'
+let g:netrw_dirhist_2='//ELISE/public/nie.fukuishimbun.co.jp/admin'
+let g:netrw_dirhist_3='//ELISE/public/nie.fukuishimbun.co.jp'
+let g:netrw_dirhist_4='//ELISE/public/nie.fukuishimbun.co.jp/admin/common/css'
+let g:netrw_dirhist_5='//ELISE/public/nie.fukuishimbun.co.jp/admin'
+let g:netrw_dirhist_6='//ELISE/public/nie.fukuishimbun.co.jp'
+let g:netrw_dirhist_7='//ELISE/public/nie.fukuishimbun.co.jp/admin'
