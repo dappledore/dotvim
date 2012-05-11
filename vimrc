@@ -166,10 +166,14 @@ set nobackup
 set noswapfile
 
 
-let g:solarized_contrast="high"    "default value is normal
-let g:solarized_visibility="high"    "default value is normal
-let g:solarized_diffmode="high"    "default value is normal
+let g:solarized_contrast="high"  
+let g:solarized_visibility="high" 
+let g:solarized_diffmode="high"    
 
 syntax enable
 set background=light
 colorscheme solarized
+
+
+map <F2> :mksession! ~/vim_session <cr> " Quick write session with F2
+map <F3> :source ~/vim_session <cr>     " And load session with F3
