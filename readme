@@ -1,1 +1,3 @@
-readme
+Setup instructions
+Making a sym link on windows to point _vimrc to dotvim\vimrc
+mklink  /H _vimrc dotvim\vimrc

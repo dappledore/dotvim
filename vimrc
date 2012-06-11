@@ -25,6 +25,7 @@ filetype indent plugin on
 " Enable syntax highlighting
 syntax on
 
+:set foldcolumn=3
 
 "------------------------------------------------------------
 " Must have options {{{1
@@ -159,6 +160,7 @@ map <C-l> <C-w>l
 inoremap <C-Space> <C-x><C-o>
 
 set fileencodings=utf8,default,latin1
+set encoding=utf-8
 nmap <leader>v :tabedit $MYVIMRC<CR>
 
 " Disable swapfile and backup {{{1
@@ -183,3 +185,4 @@ map <F3> :source ~/vim_session <cr>     " And load session with F3
 """"""""""""""""""""""""""""""
 let MRU_Max_Entries = 200
 map <leader>f :MRU<CR>
+set ruler

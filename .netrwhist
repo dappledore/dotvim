@@ -1,3 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/home/dappledore'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='//elise/public/nie.fukuishimbun.co.jp/admin/common/css'
+let g:netrw_dirhist_2='//elise/public/nie.fukuishimbun.co.jp/admin/common'
+let g:netrw_dirhist_3='//elise/public/nie.fukuishimbun.co.jp/admin'
+let g:netrw_dirhist_4='//elise/public/nie.fukuishimbun.co.jp'
+let g:netrw_dirhist_5='//elise/public/nie.fukuishimbun.co.jp/admin'
+let g:netrw_dirhist_6='//elise/public/nie.fukuishimbun.co.jp/common/js_admin'
+let g:netrw_dirhist_7='//POLO/c$/website/Peach_TEST/DesktopModules/B2CInterface'
+let g:netrw_dirhist_8='//POLO/c$/website/Peach_TEST/DesktopModules'
